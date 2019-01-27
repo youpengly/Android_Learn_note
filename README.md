@@ -91,15 +91,9 @@
 * [Android 框架学习笔记](notes)
     * [Android ConstraintLayout 使用详解](notes/AndroidConstraintLayout使用详解.md)
     * [约束布局 ConstraintLayout 1.1.2版本的新特性](notes/约束布局ConstraintLayout1.1.2版本的新特性.md)
-    * [Retrofit2 与服务端实例讲解](https://github.com/leavesC/Retrofit2Samples)
     * [DataBinding 使用详解](https://github.com/leavesC/DataBinding_Demo)
     * [Gson 使用详解](notes/AndroidGson使用详解.md)
     * [RxJava2 入门详细笔记.md](notes/RxJava2入门详细笔记.md)
-
-* [Android 自定义View](other)
-    * [侧边栏滑动索引 View](https://github.com/leavesC/LetterIndexView)
-    * [Wifi 信号指示 View](https://github.com/leavesC/WifiStateView)
-    * [仿360悬浮球与加速球](https://github.com/leavesC/FloatBall)
 
 * [Android 相关](other)
 	* [Android 应用基础知识](other/Android应用基础知识.md)
@@ -109,6 +103,13 @@
     * [Android 系统权限](other/Android系统权限.md)
     * [Android 事件分发机制详解](other/Android事件分发机制详解.md)
     * [Android 解决 View 的滑动冲突](other/Android解决View的滑动冲突.md)
-    * [Android 工具类库](https://github.com/leavesC/AndroidUtils)
-    * [扫描并连接蓝牙音响设备](https://github.com/leavesC/BluetoothDemo)
-    * [解决软键盘和表情面板切换时的跳闪问题](https://github.com/leavesC/Keyboard)
+
+* [Android 实例、博文]
+	- UI实例
+	  - [一款封装了 历史搜索记录功能 & 样式 的Android自定义搜索框](https://github.com/Carson-Ho/Search_Layout)
+	- 库实例
+	  - [RxJava详解实例](https://github.com/MeandNi/RxJavaLearningMaterial)
+	- 架构实例
+	- 优秀博文
+	  - [Android：手把手带你深入剖析 Retrofit 2.0 源码](https://blog.csdn.net/carson_ho/article/details/73732115)
+	- 开源项目
