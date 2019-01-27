@@ -62,12 +62,6 @@
 
 ------
 
-
-* [Android 应用源码分享](https://github.com/leavesC/Java_Kotlin_Android_Learn)
-    * [一个具备私聊和群聊功能的聊天应用](https://github.com/leavesC/Chat)
-    * [通过 Wifi 实现无网络传输文件](https://github.com/leavesC/WifiFileTransfer)
-    * [通过 Wifi Direct 实现无网络传输文件](https://github.com/leavesC/WifiP2P)
-
 * [Android 四大组件](other)
     * [Android Activity 标签属性](other/AndroidActivity标签属性.md)
     * [Android Activity 使用详解](other/AndroidActivity使用详解.md)
@@ -100,9 +94,6 @@
     * [Retrofit2 与服务端实例讲解](https://github.com/leavesC/Retrofit2Samples)
     * [DataBinding 使用详解](https://github.com/leavesC/DataBinding_Demo)
     * [Gson 使用详解](notes/AndroidGson使用详解.md)
-    * [Dagger2 入门笔记](https://github.com/leavesC/Dagger2Samples)
-    * [在Android设备上搭建Web服务器](https://github.com/leavesC/AndroidServer)
-    * [Gradle 常用配置总结](https://github.com/leavesC/GradleSamples)
     * [RxJava2 入门详细笔记.md](notes/RxJava2入门详细笔记.md)
 
 * [Android 自定义View](other)
